@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cd_p3.xsl"?>
+<catalogo>
+    <cd>
+        <titulo>Thriller</titulo>
+        <artista>Michael Jackson</artista>
+        <canciones>
+            <cancion>
+                <titulo>Wanna Be Startin' Somethin'</titulo>
+                <duracion>6:03</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Baby Be Mine</titulo>
+                <duracion>4:20</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Epic Records</sello_discografico>
+        <ano_publicacion>1982</ano_publicacion>
+    </cd>
+    <cd>
+        <titulo>Back in Black</titulo>
+        <artista>AC/DC</artista>
+        <canciones>
+            <cancion>
+                <titulo>Hells Bells</titulo>
+                <duracion>5:12</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Atlantic Records</sello_discografico>
+        <ano_publicacion>1980</ano_publicacion>
+    </cd>
+    <cd>
+        <titulo>The Dark Side of the Moon</titulo>
+        <artista>Pink Floyd</artista>
+        <canciones>
+            <cancion>
+                <titulo>Speak to Me</titulo>
+                <duracion>1:30</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Breathe</titulo>
+                <duracion>2:43</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Harvest Records</sello_discografico>
+        <ano_publicacion>1973</ano_publicacion>
+    </cd>
+    <cd>
+        <titulo>The Wall</titulo>
+        <artista>Pink Floyd</artista>
+        <canciones>
+            <cancion>
+                <titulo>In the Flesh?</titulo>
+                <duracion>3:16</duracion>
+            </cancion>
+            <cancion>
+                <titulo>The Thin Ice</titulo>
+                <duracion>2:27</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Columbia Records</sello_discografico>
+        <ano_publicacion>1979</ano_publicacion>
+    </cd>
+    <cd>
+        <titulo>Abbey Road</titulo>
+        <artista>The Beatles</artista>
+        <canciones>
+            <cancion>
+                <titulo>Come Together</titulo>
+                <duracion>4:20</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Something</titulo>
+                <duracion>3:03</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Apple Records</sello_discografico>
+        <ano_publicacion>1969</ano_publicacion>
+    </cd>
+    <cd>
+        <titulo>Hotel California</titulo>
+        <artista>Eagles</artista>
+        <canciones>
+            <cancion>
+                <titulo>Hotel California</titulo>
+                <duracion>6:30</duracion>
+            </cancion>
+            <cancion>
+                <titulo>New Kid in Town</titulo>
+                <duracion>5:04</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Asylum Records</sello_discografico>
+        <ano_publicacion>1976</ano_publicacion>
+    </cd>
+    <cd>
+        <titulo>Back to Black</titulo>
+        <artista>Amy Winehouse</artista>
+        <canciones>
+            <cancion>
+                <titulo>Rehab</titulo>
+                <duracion>3:34</duracion>
+            </cancion>
+            <cancion>
+                <titulo>You Know I'm No Good</titulo>
+                <duracion>4:17</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Island Records</sello_discografico>
+        <ano_publicacion>2006</ano_publicacion>
+    </cd>
+    <cd>
+        <titulo>Nevermind</titulo>
+        <artista>Nirvana</artista>
+        <canciones>
+            <cancion>
+                <titulo>Smells Like Teen Spirit</titulo>
+                <duracion>5:01</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Come as You Are</titulo>
+                <duracion>3:39</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>DGC Records</sello_discografico>
+        <ano_publicacion>1991</ano_publicacion>
+    </cd>
+    <cd>
+        <titulo>Rumours</titulo>
+        <artista>Fleetwood Mac</artista>
+        <canciones>
+            <cancion>
+                <titulo>Go Your Own Way</titulo>
+                <duracion>3:43</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Dreams</titulo>
+                <duracion>4:14</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Warner Bros. Records</sello_discografico>
+        <ano_publicacion>1977</ano_publicacion>
+    </cd>
+    <cd>
+        <titulo>Metallica</titulo>
+        <artista>Metallica</artista>
+        <canciones>
+            <cancion>
+                <titulo>Enter Sandman</titulo>
+                <duracion>5:32</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Sad But True</titulo>
+                <duracion>5:24</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Holier Than Thou</titulo>
+                <duracion>3:47</duracion>
+            </cancion>
+            <cancion>
+                <titulo>The Unforgiven</titulo>
+                <duracion>6:27</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Wherever I May Roam</titulo>
+                <duracion>6:44</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Elektra Records</sello_discografico>
+        <ano_publicacion>1991</ano_publicacion>
+    </cd>
+</catalogo>
