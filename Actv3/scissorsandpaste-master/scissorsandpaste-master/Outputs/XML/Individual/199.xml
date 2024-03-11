@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="199">199</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_sm">Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1824-05-12"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="sh85002415">agriculture</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p><pb/><hi rend="smallcaps">House of Commons</hi></p>
+                <p><hi rend="smallcaps">Thursday, May 6.</hi></p>
+                <p><hi rend="smallcaps">Mr J. Smith</hi>  presented a petition from the Australian Company <lb/>which was founded for the purpose of cultivating lands in New <lb/>South Wales, praying that they might be incorporated.</p>
+                <p>The petition was ordered to be referred to a Committee.</p>
+            </body>
+        </text>
+    </TEI>

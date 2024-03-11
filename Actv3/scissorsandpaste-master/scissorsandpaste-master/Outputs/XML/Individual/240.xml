@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="240">240</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_sm">Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1834-07-02"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="undefined">undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p><pb/>A highly respectable and very numerous meeting <lb/>is holding this Exeter-hall, on the subject of the <lb/>new Colony in Australia, the establishment of which <lb/>has recently received the sanction of the Govern<lb break="no"/>ment.</p>
+            </body>
+        </text>
+    </TEI>

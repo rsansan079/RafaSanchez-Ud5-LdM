@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="6">6</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1789-07-20"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="unknown"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="currency">currency</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p><pb/><hi rend="italic">Cent</hi>  is the only coinage the Americans have <lb/>of their won. No less than 300 ton of them were <lb/>contracted for by Congress in the year 1787, to <lb/>be coined at the rate of 50 ton per annum ; the <lb/>contracters were also bound down to make them <lb/>all of the famous Jersey copper. They are a little <lb/>larger than the British halfpence. No British <lb/>copper no passes in the United States;–silver <lb/>and gold coins of all nations, however, pass cur<lb break="no"/> <cb/>rent. The congress have not yet ordered a sil<lb break="no"/>ver coinage.</p>
+            </body>
+        </text>
+    </TEI>

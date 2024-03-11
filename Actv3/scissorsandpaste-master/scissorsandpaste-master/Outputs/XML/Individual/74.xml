@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="74">74</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_ga">Glasgow Advertiser</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2648579">Glasgow</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1790-11-19"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="plagiarism"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="entertain"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="marriage">marriage</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p><pb/><hi rend="smallcaps">Curious Advertisement </hi><lb/>From the <hi rend="smallcaps">Pittsburgh Gazette</hi></p>
+                <p><hi rend="italic">Pittsburgh, Dec.</hi>  23, 1789.</p>
+                <p> JULY the twenty-seventh day <lb/>My wife Betsey ran away <lb/>From bed and board,–and this did say, <lb/>"She would no longer with me stay." <lb/>Since she has left me without cause <lb/>I'll give her time enough to pause. <lb/>That she may see her grievous error, <lb/>When I live happy with a fairer. <lb/>So I forewarn both great and small <lb/>To trust her any thing at all, <lb/>For of her contracts from this day <lb/>One farthing's worth I will not pay. <lb/><hi rend="smallcaps">Dennis O'Bryan</hi></p>
+            </body>
+        </text>
+    </TEI>

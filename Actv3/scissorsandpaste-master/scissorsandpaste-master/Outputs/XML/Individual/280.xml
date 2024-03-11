@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="280">280</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_sm">Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-07-24"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="accidents">accidents</item>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="sh85121666">shipwreck</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p><pb/><hi rend="smallcaps">Collision at Sea.</hi> –We are sorry to learn that <lb/>the fine new ship Palmyra, which sailed from Green<lb break="no"/>ock on her first voyage for Sydney, New South Wales, <lb/>on Wednesday week, having a large number of re<lb break="no"/>spectable emigrants on board, came in dreadful colli<lb break="no"/>sion when at sea, on Sunday evening, with another <lb/>vessel, and had her bulwark driven in and some of <lb/>the masts dismantled, but providentially no lives were <lb/>lost. She was towed back to Greenock on Wednes<lb break="no"/>day morning, and the utmost exertions are making <lb/>for her re-sailing from Greenock early next week.</p>
+            </body>
+        </text>
+    </TEI>

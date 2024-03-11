@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="220">220</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_sm">Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1831-06-04"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="sh85042782">emigration and immigration</item>
+                            <item n="religion">religion</item>
+                            <item n="sh85121579">shipping</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p><pb/>The brig Stirling Castle, Captain Fraser, sailed from <lb/>Greenock on Wednesday morning, for Sidney, New <lb/>South Wales, having on board the Rev. J. D. Lang, <lb/>minister of the Scots Church, in Sydney, and two other <lb/>Presbyterian Ministers ordained to new stations in that <lb/>colony ; also three Professors, intended for which a liberal Go<lb break="no"/>vernment grant has been obtained. There are also on <lb/>board above 40 respectable mechanics with their fami<lb break="no"/>lies, consisting chiefly of joiners, masons, and others <lb/>required for the building of the College, and a good <lb/>many of whom are fromthis town, making the num<lb break="no"/>ber of passengers in all about 140, of whom above 20 <lb/>and cabin passengers.</p>
+            </body>
+        </text>
+    </TEI>

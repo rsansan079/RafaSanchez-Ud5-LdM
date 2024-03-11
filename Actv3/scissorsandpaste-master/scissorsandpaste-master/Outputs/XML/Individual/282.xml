@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title n="282">282</title>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Collected from a digital image by <persName role="collection" n="mhbeals">M. H. Beals</persName>. Transcribed by <persName role="transcription" n="mtemplar">Max Templer</persName>.</authority>
+                    <availability>
+                        <licence n="https://creativecommons.org/licenses/by/4.0/legalcode">This work is licensed CC-BY under a Creative Commons Attribution 4.0 International License</licence>
+                    </availability>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblFull>
+                        <titleStmt>
+                            <title n="newspaper_sm">Scotsman</title>
+                        </titleStmt>
+                        <publicationStmt>
+                            <authority>Text within the public domain.</authority>
+                            <pubPlace>
+                                <address>
+                                    <settlement n="2650225">Edinburgh</settlement>
+                                    <region n="2638360">Scotland</region>
+                                    <country n="2635167">United Kingdom</country>
+                                </address>
+                            </pubPlace>
+                            <date when="1839-07-27"/>
+                        </publicationStmt>
+                    </biblFull>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <textDesc>
+                    <channel mode="w"/>
+                    <constitution type="single"/>
+                    <derivation type="original"/>
+                    <domain type="public"/>
+                    <factuality type="mixed"/>
+                    <interaction type="none" active="corporate" passive="world"/>
+                    <preparedness type="revised"/>
+                    <purpose type="inform"/>
+                </textDesc>
+                <textClass>
+                    <keywords>
+                        <list>
+                            <item n="undefined">undefined</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p><pb/><hi rend="smallcaps">Meeting on Emigration in Dublin.</hi> –One of <lb/>the largest and msot influential meetings that we ever <lb/>remember, says the <hi rend="italic">Dublin Monitor</hi>  of Thursday, took <lb/>place on Wednesday, at the Rotunda, to form an As<lb break="no"/>sociation for the Promotion of Emigration to South <lb/>Australia. In rank and numbers it was not surpassed. <lb/>There could not be less than two thousand persons in <lb/>the room. Colonel Torrens dwelt at considerable <lb/>length on the causes of Irish misery, and proved fully, <lb/>at least to our satisfaction, that a powerful and effi<lb break="no"/>cacious remedy was applicable in the objects of the <lb/>meeting. The subject seemed to tell powerfully on <lb/>the meeting ; the speakers were heard with great at<lb break="no"/>tention, and the applauses they received told that the <lb/>public feeling was deeply identified with the future <lb/>colony of New Ireland.</p>
+            </body>
+        </text>
+    </TEI>
