@@ -5,7 +5,7 @@
    <xsl:sort select="title" data-type="text"/>
    <xsl:sort select="date/@when" data-type="text"/>
    <xsl:value-of select="title"/>
-   <xsl:text> - </xsl:text>
+   <xsl:text> , </xsl:text>
    <xsl:value-of select="date/@when"/>
    <xsl:text>&#xA;</xsl:text>
  </xsl:for-each>

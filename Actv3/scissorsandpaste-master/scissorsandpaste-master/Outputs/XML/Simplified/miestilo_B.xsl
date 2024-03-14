@@ -3,7 +3,7 @@
 <xsl:template match="/">
  <xsl:for-each select="root/record">
    <xsl:text>[</xsl:text><xsl:value-of select="id"/><xsl:text>]  </xsl:text>
-   <xsl:value-of select="title"/><xsl:text>&#xA;</xsl:text>
+   <xsl:value-of select="text"/><xsl:text>&#xA;</xsl:text>
  </xsl:for-each>
 </xsl:template>
 </xsl:stylesheet>

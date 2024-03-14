@@ -2,9 +2,11 @@
 <xsl:output method="text"/>
 <xsl:template match="/">
  <xsl:for-each select="root/record">
- <xsl:value-of select="title"/> <xsl:text>&#xA;</xsl:text>
- <xsl:value-of select="id"/> 
- <xsl:value-of select="date"/> 
+ <xsl:text></xsl:text><xsl:value-of select="id"/><xsl:text>, </xsl:text>
+ <xsl:text></xsl:text><xsl:value-of select="title"/><xsl:text>, </xsl:text>
+ <xsl:text></xsl:text><xsl:value-of select="date/year"/><xsl:text>/</xsl:text>
+ <xsl:text></xsl:text><xsl:value-of select="date/month"/><xsl:text>/</xsl:text>
+ <xsl:text></xsl:text><xsl:value-of select="date/day"/><xsl:text>&#xA;</xsl:text>
  </xsl:for-each>
 </xsl:template>
 </xsl:stylesheet>
